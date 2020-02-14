@@ -1,0 +1,110 @@
+@font-face{
+    font-family:'gilroy', sans-serif;
+    src:url(../fonts/gilroy/Gilroy-ExtraBold.otf);
+}
+@font-face{
+    font-family:'gilroy', sans-serif;
+    src:url(../fonts/gilroy/Gilroy-Light.otf);
+}
+.wrapper{
+    max-width: 816px;
+    height: 1056px;
+    margin: 0 auto;
+}
+.body-inner-item{
+    border: 1px solid red;
+    margin: 10px;
+}
+.b-l{
+	border-bottom: 3px solid black;
+	margin-bottom: 20px;
+}
+.circle img {
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    margin: 15px 0;
+}
+.c-name {
+    margin-top: 15px;
+}
+.j-n {
+    font-family: 'gilroy', sans-serif;
+    font-weight: 300;
+    font-size: 75px;
+    color: #191919;
+    margin-left: 8px;
+}
+.d-n {
+    font-family: 'gilroy', sans-serif;
+    font-weight: 800;
+    font-size: 75px;
+    color: #191919;
+    margin-top: -20px;
+}
+/*contact start*/
+.b-r{
+	border-right: 3px solid black;
+}
+.c-bar h2{
+    font-family:'gilroy', sans-serif;
+    font-weight: 800;
+    font-size: 23px;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+.c-bar hr {
+    border-bottom: 3px solid black;
+    width: 68%;
+    margin-left: 0;
+    margin-top: -4px;
+}
+.s-con{
+    margin: 25px 0;
+}
+.icon{
+    font-size: 20px;
+}
+.icon-content{
+    font-family: 'gilroy', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
+.ct-1{
+    font-family: 'gilroy', sans-serif;
+    font-weight: 800;
+    font-size: 17px;
+    color: #191919;
+    text-transform: uppercase;
+    margin: 0 0 5px 0;
+}
+.ct-2{
+    font-family: 'gilroy', sans-serif;
+    font-weight: 300;
+    font-size: 17px;
+    color: #191919;
+    text-transform: uppercase;
+    margin: 0 0 0 0;
+}
+.ct-3{
+    font-family: 'gilroy', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #191919;
+    margin: 0 0 0 0;
+}
+/*reference start*/
+.ct-4{
+    font-family: 'gilory', sans-serif;
+    font-weight: 300;
+    font-size: 17px;
+    color: #191919;
+    margin: 0 0 0 0;
+}
+.reference {
+    margin-bottom: 153px;
+}
+/*reference end*/
+.experience {
+    margin-bottom: 75px;
+}
